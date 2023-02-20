@@ -425,4 +425,8 @@ body {
     justify-content: flex-end;
     margin-top: 1.875rem;
   }
+  
+  .attribution {
+    margin-top: 2rem;
+  }
 }
