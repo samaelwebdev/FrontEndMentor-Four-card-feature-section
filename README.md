@@ -15,7 +15,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
 
 simple responsive four card layout section using CSS Grid and CSS Flexbox.
@@ -53,8 +52,6 @@ simple card layout using CSS Grid and CSS Flexbox, mobile first.
 
 I used CSS Grid for the first time during this project and after some reading and playing with it i realized how simple and handy it is.
 
-```
-
 
 ### Continued development
 
@@ -70,8 +67,3 @@ I plan on completing more complex challenges.
 
 - Website - [SamaelWebDev](https://github.com/samaelwebdev)
 - Frontend Mentor - [SamaelWebDev](https://www.frontendmentor.io/profile/samaelwebdev)
-
-
-
-
-
